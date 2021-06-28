@@ -1,4 +1,15 @@
 body {
   background-color: black;
   text-align: center;
+  font-family: Verdana;
+}
+
+h1 {
+  font-weight: normal;
+  color: white
+}
+
+h2 {
+  font-weight: 300px;
+  color: white;
 }
