@@ -1,4 +1,5 @@
 body {
+  color: white;
   background-color: black;
   text-align: center;
   font-family: Verdana;
@@ -6,10 +7,25 @@ body {
 
 h1 {
   font-weight: normal;
-  color: white
+  font-size: 50px;
 }
 
 h2 {
   font-weight: 300px;
-  color: white;
+  font-size: 42px;
+}
+
+.downloadlink {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.copyright {
+  text-align: right;
+  color: gray;
+}
+
+.description {
+  color: gray;
+  font-size: 21px;
 }
